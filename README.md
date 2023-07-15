@@ -1,0 +1,2 @@
+# Hexagonal-Chessagonal
+Hexagonal chess!
