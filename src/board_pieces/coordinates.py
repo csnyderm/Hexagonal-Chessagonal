@@ -13,6 +13,7 @@ class PieceCoordinates:
             self.q = 0
             self.r = 0
             self.s = 0
+        
         self.directions = [(1, 0, -1), (1, -1, 0), (0, -1, 1), (-1, 0 ,1), (-1, 1, 0), (0, 1, -1)]
     
     def __eq__(self, comparison):
